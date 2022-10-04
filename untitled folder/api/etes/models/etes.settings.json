@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "etes",
+  "info": {
+    "name": "etes"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}
